@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: JNK Blogs
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+title: JNK's Blog
+description: A personal blog about various topics of my interests particularly in Deep Learning and Robotics.
 github_username: JNK234
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "JNK-Blogs"

@@ -4,9 +4,10 @@ title: About Me
 permalink: /about/
 ---
 
-Hi !! I'm Narasimha Karthik..
+Hey !! 
+I'm Narasimha Karthik and welcome to my Blog.
 
-This is my personal blog where I write about stuffs i am interested in dominantly in artificial intelligence and deep learning.
+This is my personal blog where I write about stuffs i am interested and various topics related to artificial intelligence and robotics.
 
-You can connect with me through [Linkden](https://www.linkedin.com/in/narasimha-karthik-jwalapuram-82b0a2172/) and [Twitter](https://twitter.com/Narasimhakarth4)
+You can connect with me in [Linkden](https://www.linkedin.com/in/narasimha-karthik-jwalapuram-82b0a2172/) and [Twitter](https://twitter.com/Narasimhakarth4)
 
