@@ -4,8 +4,9 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+Hi !! I'm Narasimha Karthik..
 
+This is my personal blog where I write about stuffs i am interested in dominantly in artificial intelligence and deep learning.
 
+You can connect with me through [Linkden](https://www.linkedin.com/in/narasimha-karthik-jwalapuram-82b0a2172/) and [Twitter](https://twitter.com/Narasimhakarth4)
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
