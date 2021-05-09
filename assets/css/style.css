@@ -429,6 +429,12 @@ html, body, input, textarea, select, button { color: rgba(255, 255, 255, 0.87) !
 
 a { color: #4bbaff !important; }
 
+.site-title { font-family: Verdana, Geneva, Tahoma, sans-serif; }
+
+.page-link { font-family: Verdana, Geneva, Tahoma, sans-serif; }
+
+hr { color: #000; }
+
 a:hover { color: rgba(255, 255, 255, 0.87) !important; }
 
 .site-title, .site-title:visited, .site-nav, .page-link { color: rgba(255, 255, 255, 0.87) !important; }
